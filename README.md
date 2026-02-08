@@ -2,7 +2,7 @@
 🔹 Data Analyst |Excel | Power BI | SQL | Python   
 
 # Projects
-- Payroll Dashboard using Power BI
+- HR Payroll Dashboard using Excel, Power BI
 
 ### Skills
 - Power BI
